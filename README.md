@@ -1,6 +1,6 @@
 # Parabank Automation and Manual Testing Project
 
-**An end-to-end testing project for Parabank including:**
+**End-to-end testing solution for [Parabank](https://parabank.parasoft.com/parabank/index.htm) banking application**
 - Manual Testing with Excel documentation
 - API Testing using Postman
 - UI Automation Testing with Selenium, TestNG, and Maven
